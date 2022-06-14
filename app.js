@@ -13,5 +13,4 @@ let paragraph = document.querySelector('.vis')
 btn.addEventListener('click', ()=>{
 console.log(paragraph)
 paragraph.style.color = 'blue'
-
 })
